@@ -64,3 +64,35 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* ANSWER */
+
+.header {
+  font-weight: bold;
+  font-size: large;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  flex-shrink: 0;
+}
+.modal {
+  padding: 15px;
+  display: flex;
+}
+
+.info {
+  margin-left: 15px;
+}
+
+.text {
+  margin: 10px 0px 20px 0px;
+}
+
+.close-button {
+  margin-left: auto;
+}
